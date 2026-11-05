@@ -4,11 +4,9 @@ Software Engineer focused on full-stack web architectures, distributed systems, 
 
 <p align="center">
   <a href="https://linkedin.com/in/benjaminhess111"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
-<p align="center">
+  &nbsp;&nbsp;&nbsp;
   <a href="https://clawconnectuwm.me"><img src="https://img.shields.io/badge/Live_App-Claw_Connect-000000?style=flat&logo=safari&logoColor=white" alt="Claw Connect live app"></a>
-</p>
-<p align="center">
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/bdhess13"><img src="https://img.shields.io/badge/GitHub-bdhess13-181717?style=flat&logo=github&logoColor=white" alt="GitHub profile"></a>
 </p>
 
@@ -51,19 +49,4 @@ A full-stack campus organization and event management platform.
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions">
 <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black" alt="Linux">
-</p>
-
----
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bdhess13&amp;theme=tokyonight" alt="GitHub profile activity summary" width="100%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bdhess13&amp;theme=tokyonight" alt="Most-used languages in GitHub repositories" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bdhess13&amp;theme=tokyonight" alt="GitHub statistics" width="48%" />
-</p>
-<p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/bdhess13" alt="GitHub contribution activity for bdhess13" width="100%" />
 </p>
